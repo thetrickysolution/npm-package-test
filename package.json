@@ -1,0 +1,19 @@
+{
+  "name": "@trickysolution/my-test-package",
+  "version": "1.0.0",
+  "description": "\"# npm-package-test\"  initgit add README.mdgit commit -m \"first commit\"git remote add origin https://github.com/thetrickysolution/npm-package-test.gitgit push -u origin master",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thetrickysolution/npm-package-test.git"
+  },
+  "author": "Tricky Solution",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thetrickysolution/npm-package-test/issues"
+  },
+  "homepage": "https://github.com/thetrickysolution/npm-package-test#readme"
+}
